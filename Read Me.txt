@@ -1,0 +1,38 @@
+Page 1.php  => Log-in Page
+Page 2.php  => Display enrolled information and remove trainigs
+Page 3.php  => Display available trainigs and add to the enrolled list
+Page 4.php  => Display enrolled confirmation or error information
+Page 5.php  => Display remove confirmation or error information (Page 2 remove sql)
+Page 6.php  => Display code and name of trainings offered by a specific facility
+Page 7.php  => Display Page 6 linked details
+Page 8.php  => Display name of students enrolled in a specific training
+Page 9.php  => Display Page 8 linkes details
+Page 10.php => Display name of trainers of a specific facility
+Page 11.php => Display Page 10 linked details
+Page 12.php => Display number of students in each training
+Page 13.php => Display number of trainers in each facility
+Page 14.php => Display ID and name of students who have training with a specific trainer
+Page 15.php => Display Page 14 linked details
+Page 16.php => Display number of students who have enrolled in the trainings offered by each facility
+Page 17.php => Display Page 16 linked details
+Database Connection.php => Database Connection 
+Header.html => Log-in Page Header
+Header_links.html => All page header with links
+Footer.php => All page except Login page
+
+
+
+----------------------------------------------------------------------------------------------------------- 
+                                           Log In Details
+-----------------------------------------------------------------------------------------------------------
+                                    |    ID    | |   Password   |  
+                                    |   SID01  | |   111111111  |
+                                    |   SID02  | |   222222222  |
+                                    |   SID03  | |   333333333  |
+                                    |   SID04  | |   444444444  |
+                                    |   SID05  | |   555555555  |
+                                    |   SID06  | |   666666666  |
+                                    |   SID07  | |   777777777  |
+                                    |   SID08  | |   888888888  |
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
